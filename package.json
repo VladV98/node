@@ -1,0 +1,16 @@
+{
+  "name": "jsexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test1",
+    "start": "node server.js"
+  },
+  "author": "Vlad V.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1"
+  }
+}
